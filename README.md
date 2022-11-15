@@ -18,7 +18,6 @@
     - [Contato](#contato)
 
   - [👨🏾‍🎨 Protótipo do Figma](#prototipo-figma)
-    - [Funcionalidades](#funcionalidades)
 
   - [👨🏾‍💻 Desenvolvedores](#equipe)
 
@@ -32,25 +31,25 @@
 
   <br>
 
-  <h3 id="historia"> História</h3>
+  <h3 id="historia">🕰 História</h3>
   <p>
     Breve resumo sobre a origem do projeto...
   </p>
   <br>
 
-<h3 id="apresentacoes"> Apresentações</h3>
+<h3 id="apresentacoes">🎙 Apresentações</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
   <br>
   
-  <h3 id="eventos"> Eventos</h3>
+  <h3 id="eventos">📣 Eventos</h3>
   <p>
     Breve resumo sobre os eventos...
   </p>
   <br>
   
-  <h3 id="integrantes"> Integrantes</h3>
+  <h3 id="integrantes">👩‍👧‍👦 Integrantes</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
@@ -62,7 +61,7 @@
   </p>
   <br>
   
-  <h3 id="contato"> Contato</h3>
+  <h3 id="contato">📬 Contato</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
@@ -73,16 +72,6 @@
   
   <a href="https://www.figma.com/proto/0tP1x3ZWl4CebcvS4uf5LW/FitMoment?scaling=scale-down&page-id=0%3A1&node-id=10%3A2&starting-point-node-id=1%3A2">Clique aqui</a>     para abri-lo no Figma.
   <br><br>
- 
-  <h2 id="funcionalidades">👨🏾‍🔧 Funcionalidades</h2>
-
-  `🧑🏾 Perfil de Usuário:` Realizar cadastro dos usuários, podendo ser pacientes ou profissional de Ed. Física.
-
-  `📁 Armazenamento de Dados:` Armazenar dados do usuário.
-
-  `📩 Bate-papo:` Bate-papo que conecta o nosso cliente ao profissional de Ed. Física.
-  <br><br>
-
   
 <footer>
   
