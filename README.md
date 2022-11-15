@@ -39,7 +39,7 @@
 
 <h3 id="apresentacoes">🎙 Apresentações</h3>
   <p>
-    Breve resumo sobre os integrantes...
+    Breve resumo sobre as apresentações...
   </p>
   <br>
   
@@ -63,7 +63,7 @@
   
   <h3 id="contato">📬 Contato</h3>
   <p>
-    Breve resumo sobre os integrantes...
+    redes sociais para contato...
   </p>
   <br><br>
   
