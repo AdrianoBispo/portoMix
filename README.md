@@ -7,7 +7,7 @@
 <br>
 
 <main>
-  <h3 id="topicos">📜 Tópicos</h3>
+  <h2 id="topicos">📜 Tópicos</h2>
 
   - [👨🏾‍🏫 Sobre o Projeto](#sobre-o-projeto)
     - [História](#historia)
@@ -42,18 +42,26 @@
   <p>
     Breve resumo sobre os integrantes...
   </p>
-
-  <h2 id="planejamento-futuro">🎯 Planejamento Futuro</h2>
-  <p>
-    Breve resumo sobre o planejamento futuro que o projeto tem em si...
-  </p>
  
-  <h2 id="nossa-ideia">💡 Nossa Ideia</h2>
+  <h2 id="eventos"> Eventos</h2>
+  <p>
+    Breve resumo sobre os eventos...
+  </p>
+  
+  <h2 id="integrantes"> Integrantes</h2>
   <p>
     Breve resumo sobre os integrantes...
   </p>
   
+  <h2 id="planejamento-futuro">🎯 Planejamento Futuro</h2>
+  <p>
+    Breve resumo sobre o planejamento futuro que o projeto tem em si...
+  </p>
   
+  <h2 id="contato"> Contato</h2>
+  <p>
+    Breve resumo sobre os integrantes...
+  </p>
   
   <br>
   
