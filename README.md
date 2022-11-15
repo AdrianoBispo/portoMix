@@ -10,7 +10,7 @@
   <h3 id="topicos">📜 Tópicos</h3>
 
   - [👨🏾‍🏫 Sobre o Projeto](#sobre-o-projeto)
-    - [História](#historia-do-projeto)
+    - [História](#historia)
     - [Apresentações](#apresentacoes)
     - [Eventos](#eventos)
     - [Integrantes](#integrantes)
