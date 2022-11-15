@@ -77,7 +77,7 @@
   
   <h2 id="desenvolvedores">👨🏾‍💻 Desenvolvedores</h2>
   
-| [<img src="https://avatars.githubusercontent.com/u/83666455?v=4" width="105px" height="105px"><br><sub>Adriano Vinícius</sub>](https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispoda-silva-85293a240/) | [<img src="https://cdn.discordapp.com/attachments/743927816021737565/1033537623379161198/IMG-20221022-WA0041.jpg" width="105px" height="105px"><br><sub>Pedro Henrique</sub>](https://www.linkedin.com/in/pedro-henrique-125a49184/) | [<img src="https://cdn.discordapp.com/attachments/743927816021737565/1034631073172299796/IMG-20221025-WA0066.jpg" width="105px" height="105px"><br><sub>Gustavo Felipe</sub>](https://www.instagram.com/joaoo_em/) |
+| [<img src="https://avatars.githubusercontent.com/u/83666455?v=4" width="105px" height="105px"><br><sub>Adriano Vinícius</sub>](https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispoda-silva-85293a240/) | [<img src="https://cdn.discordapp.com/attachments/743927816021737565/1033537623379161198/IMG-20221022-WA0041.jpg" width="105px" height="105px"><br><sub>Pedro Henrique</sub>](https://www.linkedin.com/in/pedro-henrique-125a49184/) | [<img foto de gustavo width="105px" height="105px"><br><sub>Gustavo Felipe</sub>](https://www.instagram.com/joaoo_em/) |
 |----------|----------|----------|
 
 </footer>
