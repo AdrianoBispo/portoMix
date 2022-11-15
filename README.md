@@ -7,7 +7,7 @@
 <br>
 
 <main>
-  <h2 id="topicos">📜 Tópicos</h2>
+  <h3 id="topicos">📜 Tópicos</h3>
 
   - [👨🏾‍🏫 Sobre o Projeto](#sobre-o-projeto)
     - [História](#historia)
@@ -24,7 +24,7 @@
 
   <br>
 
-  <h1 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h1>
+  <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
   <img banner height="500px" width="100%">
   <p>
     falando um pouco sobre o projeto...
@@ -32,38 +32,41 @@
 
   <br>
 
-  <h2 id="historia"> História</h2>
+  <h3 id="historia"> História</h3>
   <p>
     Breve resumo sobre a origem do projeto...
   </p>
   <br>
 
-<h2 id="apresentacoes"> Apresentações</h2>
+<h3 id="apresentacoes"> Apresentações</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
- 
-  <h2 id="eventos"> Eventos</h2>
+  <br>
+  
+  <h3 id="eventos"> Eventos</h3>
   <p>
     Breve resumo sobre os eventos...
   </p>
+  <br>
   
-  <h2 id="integrantes"> Integrantes</h2>
+  <h3 id="integrantes"> Integrantes</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
+  <br>
   
-  <h2 id="planejamento-futuro">🎯 Planejamento Futuro</h2>
+  <h3 id="planejamento-futuro">🎯 Planejamento Futuro</h3>
   <p>
     Breve resumo sobre o planejamento futuro que o projeto tem em si...
   </p>
+  <br>
   
-  <h2 id="contato"> Contato</h2>
+  <h3 id="contato"> Contato</h3>
   <p>
     Breve resumo sobre os integrantes...
   </p>
-  
-  <br>
+  <br><br>
   
   <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
   <img src="https://cdn.discordapp.com/attachments/743927816021737565/1035715750939332638/banner_readme.png">
