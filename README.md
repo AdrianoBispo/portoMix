@@ -18,6 +18,7 @@
     - [Contato](#contato)
 
   - [👨🏾‍🎨 Protótipo do Figma](#prototipo-figma)
+    - [Funcionalidades](#funcionalidades)
 
   - [👨🏾‍💻 Desenvolvedores](#equipe)
 
