@@ -34,36 +34,42 @@
   <br>
 
   <h3 id="historia">🕰 História</h3>
+
   <p>
     Breve resumo sobre a origem do projeto...
   </p>
   <br>
 
 <h3 id="apresentacoes">🎙 Apresentações</h3>
+
   <p>
     Breve resumo sobre as apresentações...
   </p>
   <br>
   
   <h3 id="eventos">📣 Eventos</h3>
+
   <p>
     Breve resumo sobre os eventos...
   </p>
   <br>
   
   <h3 id="integrantes">👩‍👧‍👦 Integrantes</h3>
+
   <p>
     Breve resumo sobre os integrantes...
   </p>
   <br>
   
   <h3 id="planejamento-futuro">🎯 Planejamento Futuro</h3>
+
   <p>
     Breve resumo sobre o planejamento futuro que o projeto tem em si...
   </p>
   <br>
   
   <h3 id="contato">📬 Contato</h3>
+
   <p>
     redes sociais para contato...
   </p>
@@ -71,7 +77,7 @@
   
   <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
   
-  <img banner-telas height="500px" width="100%">
+  <img banner-telas height="400px" width="100%">
 
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abri-lo no Figma.
   <br><br>
