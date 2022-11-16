@@ -24,7 +24,9 @@
   <br>
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
+
   <img banner height="500px" width="100%">
+
   <p>
     falando um pouco sobre o projeto...
   </p>
@@ -69,9 +71,7 @@
   
   <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
   
-  <img banner das telas do protótipo  heigth="400px" width="100%">
-  
-  
+  <img banner-telas height="500px" width="100%">
 
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abri-lo no Figma.
   <br><br>
