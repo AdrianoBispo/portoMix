@@ -68,9 +68,12 @@
   <br><br>
   
   <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
-  <img src="https://cdn.discordapp.com/attachments/743927816021737565/1035715750939332638/banner_readme.png">
   
-  <a href="https://www.figma.com/proto/0tP1x3ZWl4CebcvS4uf5LW/FitMoment?scaling=scale-down&page-id=0%3A1&node-id=10%3A2&starting-point-node-id=1%3A2">Clique aqui</a>     para abri-lo no Figma.
+  <img banner das telas do protótipo  height="400px" width="100%">
+  
+  
+
+  <a href="https://www.figma.com/proto/0tP1x3ZWl4CebcvS4uf5LW/FitMoment?scaling=scale-down&page-id=0%3A1&node-id=10%3A2&starting-point-node-id=1%3A2">Clique aqui</a> para abri-lo no Figma.
   <br><br>
   
 <footer>
