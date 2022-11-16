@@ -69,7 +69,7 @@
   
   <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
   
-  <img banner das telas do protótipo  height="400px" width="100%">
+  <img banner das telas do protótipo  heigth="400px" width="100%">
   
   
 
