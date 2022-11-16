@@ -1,5 +1,5 @@
 <header id="cabecario">
-  <img Porto Mix height="200px" width="100%" alt="banner com a logo com projeto"/>
+  <img src="" height="200px" width="100%" alt="banner com a logo com projeto"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" align="right" >
   <hr>
 </header>
