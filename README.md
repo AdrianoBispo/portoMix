@@ -73,7 +73,7 @@
   
   
 
-  <a href="https://www.figma.com/proto/0tP1x3ZWl4CebcvS4uf5LW/FitMoment?scaling=scale-down&page-id=0%3A1&node-id=10%3A2&starting-point-node-id=1%3A2">Clique aqui</a> para abri-lo no Figma.
+  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abri-lo no Figma.
   <br><br>
   
 <footer>
