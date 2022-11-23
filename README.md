@@ -35,7 +35,7 @@
 
   <h3 id="historia">🕰 História</h3>
 
-  Antes de mais nada, vale a pena mecionar a origem desse projeto. A ideia surgiu através da professora de Artes da nossa escola, [Sônia Cristina Torres](https://www.instagram.com/soniachristnak/) que pensou em inovar com a criação de uma banda composta pelos seus alunos com o objetivo de fazer com que os mesmos interajam com temáticas sociais através da música. 
+  Antes de mais nada, devemos começar com a origem desse projeto. A ideia surgiu através da professora de Artes da nossa escola, [Sônia Cristina Torres](https://www.instagram.com/soniachristnak/) que pensou em inovar com a criação de uma banda composta pelos seus alunos com o objetivo de fazer com que os mesmos interajam com temáticas sociais através da música. 
 
   <br>
 
@@ -59,7 +59,7 @@
   
   <h3 id="planejamento-futuro">🎯 Planejamento Futuro</h3>
 
-  Breve resumo sobre o planejamento futuro que o projeto tem em si...
+  Apresentar um show e fazer um filme. Criar um documentário sobre o projeto e demonstrar como ele é importante para a estima dos alunos e como influencia no processo de desenvolvimento social.
 
   <br>
   
