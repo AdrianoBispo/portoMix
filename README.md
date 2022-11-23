@@ -29,7 +29,7 @@
 
   <img src="" height="500px" width="100%">
 
-  Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.
+  <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b>
 
   <br>
 
@@ -63,15 +63,37 @@
 
   <br>
   
-  <h3 id="contato">📬 Contato</h3>
+  <h3 id="contato">📬 Nossas Redes Sociais</h3>
 
-  redes sociais para contato...
+  <a href="https://instagram.com/eu_nicin](https://www.instagram.com/nacao_portomix/">
+    <img margin="10px" align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
   <br><br>
   
-  <h1 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h1>
+  <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
   <img src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif">
+  
+  ### Segmentos
+  
+  - HOME[Feed]
+    - Feed para notificar
+    - Botões de interatividade (curtir, comentar, compartilhar)
+  - SOBRE NÓS
+    - História do PortoMix
+    - Informações sobre a banda
+  - MÚSICAS
+    - Exposição das músicas
+    - Player reprodutor
+    - Baixar
+  - CONTRATAÇÃO
+    - Número para contato
+    - E-mail para contato
+    - Caixa de texto para mandar pro e-mail do projeto
+  - AGENDA
+    - Eventos que aconteceram(datados)
+    - Eventos que acontecerão(datados)
 
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abri-lo no Figma.
   <br><br>
