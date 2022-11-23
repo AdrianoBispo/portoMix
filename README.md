@@ -21,7 +21,7 @@
 
   - [👨🏾‍🎨 Protótipo do Figma](#prototipo-figma)
 
-  - [👨🏾‍💻 Desenvolvedores](#equipe)
+  - [👨🏾‍💻 Desenvolvedores](#desenvolvedores)
 
   <br>
 
@@ -41,41 +41,31 @@
 
 <h3 id="apresentacoes">🎙 Apresentações</h3>
 
-  <p>
-    Breve resumo sobre as apresentações...
-  </p>
+  Breve resumo sobre as apresentações...
 
   <br>
   
   <h3 id="eventos">📣 Eventos</h3>
 
-  <p>
-    Breve resumo sobre os eventos...
-  </p>
+  Breve resumo sobre os eventos...
 
   <br>
   
   <h3 id="integrantes">👩‍👧‍👦 Integrantes</h3>
 
-  <p>
-    Breve resumo sobre os integrantes...
-  </p>
+  Breve resumo sobre os integrantes...
 
   <br>
   
   <h3 id="planejamento-futuro">🎯 Planejamento Futuro</h3>
 
-  <p>
-    Breve resumo sobre o planejamento futuro que o projeto tem em si...
-  </p>
+  Breve resumo sobre o planejamento futuro que o projeto tem em si...
 
   <br>
   
   <h3 id="contato">📬 Contato</h3>
 
-  <p>
-    redes sociais para contato...
-  </p>
+  redes sociais para contato...
 
   <br><br>
   
