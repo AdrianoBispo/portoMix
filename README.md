@@ -102,6 +102,7 @@
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
   <img src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif">
+  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir o protótipo direto no Figma. <br>
   
   ### Segmentos
   
@@ -123,9 +124,6 @@
     - Eventos que aconteceram(datados)
     - Eventos que acontecerão(datados)
   
-  <br>
-
-  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir o protótipo direto no Figma.
   <br><br>
   
 <footer>
