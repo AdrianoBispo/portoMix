@@ -94,8 +94,10 @@
   - AGENDA
     - Eventos que aconteceram(datados)
     - Eventos que acontecerão(datados)
+  
+  <br>
 
-  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abri-lo no Figma.
+  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir o protótipo direto no Figma.
   <br><br>
   
 <footer>
