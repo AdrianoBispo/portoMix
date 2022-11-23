@@ -62,7 +62,19 @@
   - Cais do cartão
   - Teatro Guararapes
   - Class Roll
-  - Alameda 
+  - Alameda
+  
+  #### Músicas tocadas: 
+  
+- SUCESSOS:
+  - Hino nacional com vários ritmos.
+  - Hino de Pernambuco.
+
+- AUTORIAS NOVAS:
+  - Faça fé
+  - Nova sinergia
+  - Gaia
+
 
 
   <br>
