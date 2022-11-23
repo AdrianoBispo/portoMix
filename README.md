@@ -47,13 +47,29 @@
   
   <h3 id="eventos">📣 Eventos</h3>
 
-  Breve resumo sobre os eventos...
+  #### Eventos participados:
+                                
+  - Educação integral
+  - 10 anos Lei Maria da Penha 
+  - Abertura do ano
+  - Prêmio gestores 
+  - Uma noite no museu 
+  - Prêmio ranking das escolas
+  - Abertura de jogos escolares 
+  - Abertura de eventos da escola 
+  - Muitos chamados para fórum e aberturas 
+  - Teatro santa Isabel
+  - Cais do cartão
+  - Teatro Guararapes
+  - Class Roll
+  - Alameda 
+
 
   <br>
   
   <h3 id="integrantes">👩‍👧‍👦 Integrantes</h3>
 
-  Breve resumo sobre os integrantes...
+  Os integrantes da banda são os própios alunos, como já mencionado anteriormente. No total, atualmente, são 15 integrantes. Os instrumentos utilizados são: guitarra, baixo, tumbadora, timbal, triângulo, caixa, agogô, abê, teclado, pistons, violão e alfaia.                          
 
   <br>
   
