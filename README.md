@@ -90,11 +90,11 @@
 
   <a href="https://instagram.com/eu_nicin](https://www.instagram.com/nacao_portomix/">
     <img margin="10px" align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  </a> <br>
 
   por enquanto a única disponível é o intagram da banda.
   
-  <br><br>
+  <br>
   
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
