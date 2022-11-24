@@ -1,6 +1,6 @@
 <header id="cabecario">
 
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png" height="300px" width="100%" alt="banner com a logo com projeto"/>
+  <img src="" height="300px" width="100%" alt="banner com a logo com projeto"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" align="right" >
   <hr>
 
@@ -27,7 +27,7 @@
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
-  <img src="" height="500px" width="100%">
+  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png" height="400px" width="100%">
 
   <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b>
 
