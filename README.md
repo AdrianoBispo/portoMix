@@ -28,7 +28,7 @@
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png" height="400px" width="100%">
+  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png" height="40%" width="100%">
 
   <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b>
 
