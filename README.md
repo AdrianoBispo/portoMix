@@ -40,8 +40,17 @@
 
 <h3 id="apresentacoes">🎙 Apresentações</h3>
 
-  Breve resumo sobre as apresentações...
+  #### As músicas tocadas tem como principal característica a mesclagem de ritmos diferentes da cultura pernambucana sendo: 
+  
+- SUCESSO:
+  - Hino nacional com vários ritmos.
+  - Hino de Pernambuco.
 
+- NOVA AUTORIA:
+  - Faça fé
+  - Nova sinergia
+  - Gaia
+  
   <br>
   
   <h3 id="eventos">📣 Eventos</h3>
@@ -62,25 +71,12 @@
   - Teatro Guararapes
   - Class Roll
   - Alameda
-  
-  #### Músicas tocadas: 
-  
-- SUCESSOS:
-  - Hino nacional com vários ritmos.
-  - Hino de Pernambuco.
-
-- AUTORIAS NOVAS:
-  - Faça fé
-  - Nova sinergia
-  - Gaia
-
-
-
+ 
   <br>
   
   <h3 id="integrantes">👩‍👧‍👦 Integrantes</h3>
 
-  Os integrantes da banda são os própios alunos, como já mencionado anteriormente. No total, atualmente, são 15 integrantes. Os instrumentos utilizados são: guitarra, baixo, tumbadora, timbal, triângulo, caixa, agogô, abê, teclado, pistons, violão e alfaia.                          
+  Os integrantes da banda são os própios alunos, como já mencionado anteriormente. Atualmete são 15 integrantes no total. Os instrumentos utilizados são: guitarra, baixo, tumbadora, timbal, triângulo, caixa, agogô, abê, teclado, pistons, violão e alfaia.                          
 
   <br>
   
@@ -96,6 +92,8 @@
     <img margin="10px" align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
+  por enquanto a única disponível é o intagram da banda.
+  
   <br><br>
   
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
