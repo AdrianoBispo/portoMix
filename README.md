@@ -1,6 +1,6 @@
 <header id="cabecario">
   
-  <img align="right" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" height="50%" width="50%" alt="banner com a logo com projeto"/>
+  <img align="right" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" height="60%" width="50%" alt="banner com a logo com projeto"/>
   <h1> Porto Mix </h1>
   <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
   <hr>
