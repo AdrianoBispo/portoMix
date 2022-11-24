@@ -1,14 +1,13 @@
 <header id="cabecario">
-  
-  <img align="right" height="28%" width="28%" src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif">
-
   <h1>
-    <img align="left" height="70px" width="70px" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" />
-    Porto Mix
-  </h1>
-
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
-
+    <img align="left" height="100px" width="100px" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" />
+    PORTO MIX
+  </h1> 
+  <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
+  <br><br><br>
+  
+  <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png">
+  
 </header>
 
 <main>
@@ -30,11 +29,8 @@
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
-  <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png">
-
-  <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b>
-
-  <br>
+  <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
+  <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b> <br><br>
 
   <h3 id="historia">🕰 História</h3>
 
@@ -104,13 +100,10 @@
   
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
-  
-  <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
-  <br>
-  
-  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir o protótipo direto no Figma. <br>
-  
-  ### Segmentos
+  <img height="38%" width="38%" src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif"><br>
+  <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir direto no Figma.
+
+  ### Segmentos:
   
   - HOME[Feed]
     - Feed para notificar
@@ -129,7 +122,7 @@
   - AGENDA
     - Eventos que aconteceram(datados)
     - Eventos que acontecerão(datados)
-  
+
   <br><br>
   
 <footer>
