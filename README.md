@@ -1,13 +1,15 @@
 <header id="cabecario">
   
-  <img align="right" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" height="60%" width="50%" alt="logoPortoMix"/>
-  <h1> Porto Mix </h1>
-  <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
-  <hr>
+  <img align="right" height="28%" width="28%" src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif">
+
+  <h1>
+    <img align="left" height="70px" width="70px" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" />
+    Porto Mix
+  </h1>
+
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
 
 </header>
-
-<br>
 
 <main>
   <h3 id="topicos">📜 Tópicos</h3>
@@ -28,7 +30,7 @@
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png" height="40%" width="100%">
+  <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png">
 
   <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b>
 
@@ -102,7 +104,10 @@
   
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif"><br>
+  
+  <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
+  <br>
+  
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir o protótipo direto no Figma. <br>
   
   ### Segmentos
