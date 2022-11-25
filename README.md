@@ -30,7 +30,7 @@
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
   <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
-  <b>Este repositório busca apresentar nossa ideia de protótipo que simula um aplicativo formal para a banda da nossa escola, o PortoMix.</b> <br><br>
+  <b>O PortoMix simula um aplicativo formal para a banda da nossa escola, a <a href="https://www.instagram.com/eteportodigital/">ETE Porto Digital</a>. Esse pequeno projeto foi desenvolvido por nós, concluintes do 3° ano de ensino médio/técnico, como desafio para a disciplina de design.</b> <br><br>
 
   <h3 id="historia">🕰 História</h3>
 
