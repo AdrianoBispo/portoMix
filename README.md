@@ -126,6 +126,6 @@
 <footer>
   <h2 id="desenvolvedores">👨🏾‍💻 Desenvolvedores</h2>
   
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerDesenvolvedores.png"/>
+  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/desenvolvedoresBanner.png"/>
 
 </footer>
