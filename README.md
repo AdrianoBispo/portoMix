@@ -30,7 +30,7 @@
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
   <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
-  <b>O PortoMix simula um aplicativo formal para a banda da nossa escola, a <a href="https://www.instagram.com/eteportodigital/">ETE Porto Digital</a>. Esse pequeno projeto foi desenvolvido por nós, concluintes do 3° ano de ensino médio/técnico, como desafio para a disciplina de design.</b> <br><br>
+  <b>O PortoMix é um projeto que simula um aplicativo formal para a banda da nossa escola, a <a href="https://www.instagram.com/eteportodigital/">ETE Porto Digital</a>. Esse pequeno projeto foi realizado como desafio para a disciplina de design e como forma de obtermos experiência. O professor <a href="https://www.instagram.com/humberto_jorge12/">Humberto Jorge</a> nos ofereceu como premiação um ticket no valor de R$50 para fazermos compras na <a href="https://livrariajaqueira.com.br/">Livraria da Jaqueira</a> com o prazo de entrega 30/11/2022(dependendo do dia que você estiver lendo o projeto já foi entregue).</b> <br><br>
 
   <h3 id="historia">🕰 História</h3>
 
