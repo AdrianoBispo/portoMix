@@ -1,12 +1,12 @@
 <header id="cabecario">
   <h1>
-    <img align="left" height="100px" width="100px" src="https://github.com/AdrianoBispo/portoMix/blob/master/logoPortoMix.png" />
+    <img align="left" height="100px" width="100px" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/logoPortoMix.png" />
     PORTO MIX
   </h1> 
   <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
   <br><br><br>
   
-  <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerPrincipal-PortoMix.png">
+  <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/bannerPrincipal-PortoMix.png">
   
 </header>
 
@@ -29,7 +29,7 @@
 
   <h2 id="sobre-o-projeto">👨🏾‍🏫 Sobre o Projeto</h2>
 
-  <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/bannerTelas.png">
+  <img align="" height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/bannerTelas.png" />
   <b>O PortoMix é um projeto que simula um aplicativo formal para a banda da nossa escola, a <a href="https://www.instagram.com/eteportodigital/">ETE Porto Digital</a>. Esse pequeno projeto foi realizado como desafio para a disciplina de design e como forma de obtermos experiência. O professor <a href="https://www.instagram.com/humberto_jorge12/">Humberto Jorge</a> nos ofereceu como premiação um ticket no valor de R$50 para fazermos compras na <a href="https://livrariajaqueira.com.br/">Livraria da Jaqueira</a> com o prazo de entrega 30/11/2022(dependendo do dia que você estiver lendo o projeto já foi entregue).</b> <br><br>
 
   <h3 id="historia">🕰 História</h3>
@@ -98,7 +98,7 @@
   
   <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
   
-  <img height="38%" width="38%" src="https://github.com/AdrianoBispo/portoMix/blob/master/prototipo-telas.gif"><br>
+  <img height="38%" width="38%" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/prototipo-telas.gif"><br>
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir direto no Figma.
 
   ### Segmentos:
@@ -126,6 +126,6 @@
 <footer>
   <h2 id="desenvolvedores">👨🏾‍💻 Desenvolvedores</h2>
   
-  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/desenvolvedoresBanner.png"/>
+  <img src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/desenvolvedoresBanner.png"/>
 
 </footer>
