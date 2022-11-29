@@ -14,14 +14,14 @@
   <h3 id="topicos">📜 Tópicos</h3>
 
   - [👨🏾‍🏫 Sobre o Projeto](#sobre-o-projeto)
-    - [História](#historia)
-    - [Apresentações](#apresentacoes)
-    - [Eventos](#eventos)
-    - [Integrantes](#integrantes)
-    - [Planejamento Futuro](#planejamento-futuro)
-    - [Contato](#contato)
+    - [🕰 História](#historia)
+    - [🎙 Apresentações](#apresentacoes)
+    - [📣 Eventos](#eventos)
+    - [👩‍👧‍👦 Integrantes](#integrantes)
+    - [🎯 Planejamento Futuro](#planejamento-futuro)
+    - [📬 Contato](#contato)
 
-  - [👨🏾‍🎨 Protótipo do Figma](#prototipo-figma)
+  - [🎨 Protótipo do Figma](#prototipo-figma)
 
   - [👨🏾‍💻 Desenvolvedores](#desenvolvedores)
 
@@ -92,11 +92,11 @@
     <img margin="10px" align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> <br>
 
-  por enquanto a única disponível é o intagram da banda.
+  Por enquanto a única disponível é o intagram da banda.
   
   <br>
   
-  <h2 id="prototipo-figma">👨🏾‍🎨 Protótipo do Figma</h2>
+  <h2 id="prototipo-figma">🎨 Protótipo do Figma</h2>
   
   <img height="38%" width="38%" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/prototipo-telas.gif"><br>
   <a href="https://www.figma.com/file/GJfiWumXNS0qcfxotTEEnJ/Porto-Mix?node-id=0%3A1&t=dA6rJnVx6nz58wUA-1">Clique aqui</a> para abrir direto no Figma.
