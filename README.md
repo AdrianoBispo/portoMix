@@ -3,7 +3,7 @@
     <img align="left" height="100px" width="100px" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/logoPortoMix.png" />
     PORTO MIX
   </h1> 
-  <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
+  <img align="left" src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20ENTREGUE&color=RED&style=for-the-badge" />
   <br><br><br>
   
   <img height="40%" width="100%" src="https://github.com/AdrianoBispo/portoMix/blob/master/imagensUtilizadas/bannerPrincipal-PortoMix.png">
